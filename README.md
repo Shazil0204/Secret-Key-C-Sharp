@@ -15,7 +15,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 Clone the repository to your local machine:
 
 1. Copy code
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/Shazil0204/Secret-Key-C-Sharp.git)
+   git clone [https://github.com/Shazil0204/Secret-Key-C-Sharp.git](https://github.com/Shazil0204/Secret-Key-C-Sharp.git)
 
 2. Open the solution in Visual Studio or your preferred C# IDE.
 3. Build the solution to ensure all dependencies are resolved.
